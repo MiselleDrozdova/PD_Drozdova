@@ -1,3 +1,3 @@
-# PD_Drozdova
+Drozdova # PD_Drozdova
 “Patstāvīgais praktiskais darbs programmēšanā”
 “Patstāvīgais darbs platformā GitHub ar versiju kontroles sistēmu Git”
